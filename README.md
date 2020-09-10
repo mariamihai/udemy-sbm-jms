@@ -19,3 +19,6 @@ docker run -it --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis
 | --------| -----|
 | username | artemis |
 | password | simetraehcapa | 
+
+## Status
+**[COMPLETED]** - As I finished the section of the course and the associated project, I am setting a personal status of "Completed" and will probably not update this repository in the near future as this was a learning project.
